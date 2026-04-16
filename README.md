@@ -14,11 +14,3 @@ I'm a passionate full-stack developer focused on building immersive, user-friend
 
 ---
 
-## 🧠 What I'm Learning
-
-- 🧩 AI & ML APIs for interactive experiences  
-- 📲 Controls in AR/VR  
-- ⚡ Serverless functions & edge computing  
-- 🔒 Authentication & Security
-- 
----
